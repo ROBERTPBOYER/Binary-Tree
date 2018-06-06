@@ -60,13 +60,13 @@ and, eee, ff, iii, jj, m, not, ooo, pp, r, sssss, tttt, y, z (in this order) Fig
 void arrayToBSTree(NodeData* []);
 After the call to arrayToBSTree, the array in figure 2 should be filled with NULLs and the tree built should look like: 
 
-                            not
-                          /      \
-                      ff          sssss
-                     /  \        /      \
-                  and    jj      pp       y 
-                    \   /  \    /  \     /  \
-                   eee iii  m  ooo  r  tttt  z
+                                  not
+                             /            \
+                        ff                  sssss
+                     /     \               /      \
+                  and         jj          pp         y 
+                     \      /    \      /    \     /    \
+                    eee   iii     m    ooo    r   tttt   z
 
 
 List of supporting files
