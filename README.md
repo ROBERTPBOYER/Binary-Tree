@@ -76,7 +76,8 @@ After the call to arrayToBSTree, the array in figure 2 should be filled with NUL
 4.	lab2output: correct output in using lab2.cpp;
 5.	classAndSideway.txt: structure of BinTree class and 2 functions for helping display a binary tree as if you are viewing it from the side. NOTE: They will be part of your program. You can adjust this definition to your implementation (although you must have the three pointers in the Node and it must work with lab2.cpp).
 
-Submission Requirements: All the rules, submission requirements, and evaluation criteria are the same as the assignment 1.
+#### Submission Requirements: 
+All the rules, submission requirements, and evaluation criteria are the same as the assignment 1.
 Part 2 (2%). Use as many 8½ by 11 inch pieces of paper, one-sided, to make your work clear.
 1.	Use Huffman coding to encode these symbols with given frequencies: a: 0.10 b: 0.25 c: 0.05 d: 0.15 e: 0.30 f: 0.07 g: 0.08
 2.	Build (draw) a heap (minheap, smallest value at root) by inserting one item at a time with the values: 15 20 3 4 8 10 9 5 14 2 25
