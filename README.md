@@ -2,7 +2,7 @@
 
 UW CSS-343 Data Structures, Algorithms, And Discrete Mathematics II 
 
-## Description
+### Description
 
 This project is to create a binary search tree class called BinTree along with some additional functions (remove function is not required).
 
@@ -35,7 +35,7 @@ Each line will be used to build one tree. The duplicated strings (i.e., having e
 
 You will also be given nodedata.h and nodedata.cpp files which implements a NodeData class. You must define your tree nodes using NodeData (i.e., each node holds a NodeData* for the data).
 
-### Develop the class:
+#### Develop the class:
   1.	A default constructor (creates an empty tree), a copy constructor (deep copy), and destructor.
   2.	Overload operators: (a). The assignment operator (=) to assign one tree to another. (b). The equality and inequality operators (==, !=). Define two trees to be equal if they have the same data and same structure. For example,
   
@@ -69,7 +69,7 @@ After the call to arrayToBSTree, the array in figure 2 should be filled with NUL
                     eee   iii     m    ooo    r   tttt   z
 
 
-## List of supporting files
+### List of supporting files
 1.	data2.txt: input data file;
 2.	nodedata.h and nodedata.cpp: NodeData class;
 3.	lab2.cpp: containing main(), to help clarify the functional requirements;
